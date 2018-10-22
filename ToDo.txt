@@ -1,0 +1,17 @@
+-PROBLEMS
+    -Clip path background cuts off
+    -Photo size adjustment (use tiles?)
+    -Contact sends email
+    -Build resume (component swaps?)
+    -Download resume works
+    -Flip project tiles to show description and technologies (use jquery)
+
+-OPTIONAL
+    -Add video somewhere?
+    -Carousel?
+    -Page animations
+
+-FIXED
+    -Routing
+    -Make sure all links work
+    -Hamburger doesn't bring down menu
