@@ -5,6 +5,7 @@
     -Build resume (component swaps?)
     -Download resume works
     -Flip project tiles to show description and technologies (use jquery)
+    -nav bar weird white bar
 
 -OPTIONAL
     -Add video somewhere?
